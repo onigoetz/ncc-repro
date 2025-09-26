@@ -1,5 +1,5 @@
 {
-  "packageManager": "yarn@4.5.3",
+  "packageManager": "yarn@4.10.3",
   "dependencies": {
     "@rslib/core": "0.1.0",
     "@vercel/ncc": "0.38.3",
